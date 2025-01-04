@@ -1,30 +1,29 @@
 # NoSQL
-NoSQL is a type database Management system. It is unstructured or semi-structured database. NoSQL does not store data in the tabular format.
+NoSQL is one of the type of DataBase. NoSQL is Unstructured DataBase Language. It does not follow the tablular format.  It has the flexibility of working with JSON, document files and Collections.
+
+## Abbrevation
+NoSQL stands for **Not only SQL.** 
+It can also be called as **Non-SQL**
 
 ## working schema
-* ** NoSQL uses JSON (JavaScript Object Notation) structure. ** *
+The NoSQL has the flexible working schema because it is Unstructured DataBase and it allows JSON type data, document type files and Collections. 
 
-## Types of NoSQL
-1. * Key-value store *
-2. * Document store *
-3. *  Column-Family store *
-4. * Graph DataBase*
+## Commomly used types of NoSQL
+* Hierarchical Databases
+* Relational Databases
+* Non-Relational Databases
+* Object oriented databases
 
 ## Advantages of NoSQL
-1. * NoSQL handles large and big scale architecture. *
-2. * NoSQL provides high performance. *
-3. * NoSQL comes up with the Distributed Architecture. *
-4. * NoSQL is scalable. *
-5. * NoSQL provides distributed structure for storage efficiency. *
-6. * NoSQL is fast and convinient *
+* users can have the flexibility of storing different kind of files.
+* NoSQL supports the CRUD operations natively.
+* NoSQL has the flexible schema.
+* NoSQL comes up with a faster development.
 
 ## Disadvantages of NoSQL
-1. * NoSQL is semi-structured or unsctructured. *
-2. * NoSQL does not follow ACID properties *
-3. * NoSQL does not support for the relational Database Management System (RDBMS) *
-4. * NoSQL does not supports for the joins operations *
-5. * NoSQL does not natively support SQL query language *
+* NoSQL is not a structured DataBase.
+* NoSQL is does not support ACID properties natively.
    
 
 # Reference Links
-https://www.mongodb.com/resources/basics/databases/nosql-explained
+NoSQL(https://www.mongodb.com/resources/basics/databases/nosql-explained)
