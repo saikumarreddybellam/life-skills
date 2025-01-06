@@ -2,11 +2,11 @@
 
 ## Grit
 1. Question 1
-   Grit is the long term goal towards the goal, passion and perseverance and this can last for years. Success can be predicted by the one and only factor that is **grit**.
+   * Grit is the long term goal towards the goal, passion and perseverance and this can last for years. Success can be predicted by the one and only factor that is **grit**.
 
 ## Introduction to Growth Mindset
 2. Question 2
-   The process of developing skills and abilities is known as the **Growth Mindset**. The key factors for the Growth Mindset are focus and belief.
+   * The process of developing skills and abilities is known as the **Growth Mindset**. The key factors for the Growth Mindset are focus and belief.
 
 ## Understanding Internal Locus of Control 
 3. Question 3
